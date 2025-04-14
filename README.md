@@ -31,7 +31,7 @@ Please refer to this repository before starting, and contribute improvements or 
 ## 📬 Contact
 
 For access or contribution requests, reach out to:  
-📧 **techinfra@org.com**
+📧 **techinfra@skapl.com**
 
 ---
 
