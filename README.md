@@ -1,8 +1,8 @@
-# 🏗️ techinfra @ org.com
+# 🏗️ techinfra @ skapl.com
 
 Welcome to the **techinfra** repository!
 
-This repository is maintained by the org.com team and is dedicated to handling all infrastructure-related tasks, specifically:
+This repository is maintained by the skapl.com team and is dedicated to handling all infrastructure-related tasks, specifically:
 
 ## 🚀 Purpose
 
